@@ -1,0 +1,284 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="testing123.com" resolutions="1x" timestamp="1515511620023">
+  <folder name="css">
+    <file name="site_global.css" crc="294170261"/>
+    <file name="master_a-master.css" crc="474035891" ref="v-aerial-bj:focus-listing:v-aerial-kl:index:home:auction:australia:listing"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="v-aerial-bj:focus-listing:v-aerial-kl:index:home:auction:australia:listing"/>
+    <file name="v-aerial-bj.css" crc="98559364" ref="v-aerial-bj"/>
+    <file name="focus-listing.css" crc="3924292962" ref="focus-listing"/>
+    <file name="nomq_focus-listing.css" crc="4029379906" ref="focus-listing"/>
+    <file name="v-aerial-kl.css" crc="60648097" ref="v-aerial-kl"/>
+    <file name="index.css" crc="3876830793" ref="index"/>
+    <file name="home.css" crc="155894845" ref="home"/>
+    <file name="nomq_home.css" crc="298968191" ref="home"/>
+    <file name="auction.css" crc="3941609676" ref="auction"/>
+    <file name="australia.css" crc="4290094013" ref="australia"/>
+    <file name="listing.css" crc="518100538" ref="listing"/>
+    <file name="nomq_listing.css" crc="471873600" ref="listing"/>
+  </folder>
+  <folder name="fonts">
+    <file name="fontawesome-webfont.woff" crc="462672289"/>
+    <file name="fontawesome-webfont.eot" crc="415170694"/>
+    <file name="fontawesome-webfont.svg" crc="3771442179"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="home:listing:focus-listing:index:australia:v-aerial-bj:v-aerial-kl:auction"/>
+    <file name="museutils.js" crc="3803043152" ref="home:listing:focus-listing:index:australia:v-aerial-bj:v-aerial-kl:auction"/>
+    <file name="whatinput.js" crc="86476730" ref="home:listing:focus-listing:index:australia:v-aerial-bj:v-aerial-kl:auction"/>
+    <file name="museconfig.js" crc="380897831" ref="home:listing:focus-listing:index:australia:v-aerial-bj:v-aerial-kl:auction"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="home:listing:focus-listing:index:australia:v-aerial-bj:v-aerial-kl:auction"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="home:listing:focus-listing:index:australia:v-aerial-bj:v-aerial-kl:auction"/>
+    <file name="jquery.watch.js" crc="99325471" ref="home:listing:focus-listing:index:australia:v-aerial-bj:v-aerial-kl:auction"/>
+    <file name="html5shiv.js" crc="4241844378" ref="home:listing:focus-listing:index:australia:v-aerial-bj:v-aerial-kl:auction"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="home:listing:focus-listing"/>
+    <file name="require.js" crc="4157109226" ref="home:listing:focus-listing:index:australia:v-aerial-bj:v-aerial-kl:auction"/>
+    <file name="webpro.js" crc="242022427" ref="listing:focus-listing:v-aerial-bj:v-aerial-kl"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="listing:focus-listing:v-aerial-bj:v-aerial-kl"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="listing:focus-listing:v-aerial-bj:v-aerial-kl"/>
+    <file name="touchswipe.js" crc="4066113679" ref="listing:focus-listing:v-aerial-bj:v-aerial-kl"/>
+    <file name="form_check.php" crc="147359589" ref="focus-listing"/>
+    <file name="form_throttle.php" crc="93986428" ref="focus-listing"/>
+    <file name="form_process.php" crc="3851993751" ref="focus-listing"/>
+    <file name="form-u841.php" crc="4261133973" ref="focus-listing"/>
+  </folder>
+  <folder name="images">
+    <file name="kuala-lumpur-1820944_1920.jpg" crc="68013014" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="new launch1.jpg" crc="460927509" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="new launch2.jpg" crc="509947420" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="ad11.jpg" crc="4202705478" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="kuala-lumpur-1820944_1920-u130-fr.jpg" crc="416967552" ref="home"/>
+    <file name="new launch1-u3093-fr.jpg" crc="235977275" ref="home"/>
+    <file name="new launch2-u3111-fr.jpg" crc="3944262334" ref="home"/>
+    <file name="ad11-u13680-fr.jpg" crc="519418288" ref="home"/>
+    <file name="keana1.jpg" crc="149130366" ref="listing">
+      <caption webpage="listing" alt=""/>
+    </file>
+    <file name="id-ad01.jpg" crc="3805154042" seo="true" ref="listing">
+      <caption webpage="listing" alt=""/>
+      <caption webpage="listing" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="listing:focus-listing"/>
+    <file name="loading.gif" crc="3815509949" ref="listing:focus-listing"/>
+    <file name="id logo4.jpg" crc="260817614" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="id logo2.jpg" crc="180203358" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="id logo3.jpg" crc="4183619934" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="q4.jpg" crc="4192133356" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="keana1-crop-u510.jpg" crc="3903060327" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="keana3-crop-u8072.jpg" crc="191531287" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="keana2-crop-u8103.jpg" crc="457984758" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="keana1-crop-u499.jpg" crc="168952166" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="keana3-crop-u8081.jpg" crc="516475650" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="keana2-crop-u8112.jpg" crc="3994999393" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="v3.jpg" crc="3758399029" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="v8.jpg" crc="397375207" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="v9.jpg" crc="3758870738" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="v11.jpg" crc="3788685833" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="v12.jpg" crc="4083941469" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="v3-crop-u1037.jpg" crc="4100326395" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="v8-crop-u1057.jpg" crc="3837169768" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="v9-crop-u1077.jpg" crc="275456386" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="v11-crop-u1097.jpg" crc="4231678432" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="v12-crop-u1117.jpg" crc="47670875" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="vp02.jpg" crc="3962317413" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="vp03-crop-u1567.jpg" crc="13792276" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="vp04-crop-u1587.jpg" crc="28887799" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="vp07-crop-u1607.jpg" crc="146449220" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="vp02-crop-u1553.jpg" crc="4240033834" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="vp03-crop-u1573.jpg" crc="301248542" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="vp04-crop-u1593.jpg" crc="517699610" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="vp07-crop-u1613.jpg" crc="3801131624" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="v3-u1145-fr.jpg" crc="3898078283" ref="focus-listing"/>
+    <file name="2.jpg" crc="3891200011" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="man-u866-fr.jpg" crc="499694789" ref="focus-listing"/>
+    <file name="u11081-24.png" crc="4224949708" ref="focus-listing"/>
+    <file name="u11080-22.png" crc="69361979" ref="focus-listing"/>
+    <file name="calculator.jpg" crc="3774160302" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="id-advert-thai.jpg" crc="4165901344" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="man-u866-fr2.jpg" crc="9924771" ref="focus-listing"/>
+    <file name="keana1-crop-u5102.jpg" crc="3990969086" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="keana3-crop-u80722.jpg" crc="3763910619" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="keana2-crop-u81032.jpg" crc="4097115718" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="keana1-crop-u4992.jpg" crc="283713294" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="keana3-crop-u80812.jpg" crc="168055381" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="keana2-crop-u81122.jpg" crc="149834539" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="id logo4-u1162-fr.jpg" crc="4277664018" ref="focus-listing"/>
+    <file name="id logo2-u6536-fr.jpg" crc="4173514360" ref="focus-listing"/>
+    <file name="id logo3-u6608-fr.jpg" crc="452910602" ref="focus-listing"/>
+    <file name="v3-crop-u1031.jpg" crc="4086916502" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="v8-crop-u1051.jpg" crc="473865129" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="v9-crop-u1071.jpg" crc="502743230" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="v11-crop-u1091.jpg" crc="4188180326" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="v12-crop-u1111.jpg" crc="165480424" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="v3-crop-u10372.jpg" crc="38710171" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="v8-crop-u10572.jpg" crc="4282997337" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="v9-crop-u10772.jpg" crc="332172033" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="v11-crop-u10972.jpg" crc="4294412305" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="v12-crop-u11172.jpg" crc="320957567" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="vp02-crop-u1547.jpg" crc="127092318" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="vp03-crop-u15672.jpg" crc="263052117" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="vp04-crop-u15872.jpg" crc="192317587" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="vp07-crop-u16072.jpg" crc="4195596213" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="vp02-crop-u15532.jpg" crc="105693820" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="vp03-crop-u15732.jpg" crc="37494130" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="vp04-crop-u15932.jpg" crc="511789312" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="vp07-crop-u16132.jpg" crc="3815134360" seo="true" ref="focus-listing">
+      <caption webpage="focus-listing" alt=""/>
+    </file>
+    <file name="v3-u1145-fr2.jpg" crc="4117913149" ref="focus-listing"/>
+    <file name="2-u6556-fr.jpg" crc="247470209" ref="focus-listing"/>
+    <file name="q4-u6628-fr.jpg" crc="300889279" ref="focus-listing"/>
+    <file name="calculator-u8583-fr.jpg" crc="304522513" ref="focus-listing"/>
+    <file name="id-advert-thai-u8747-fr.jpg" crc="3758722787" ref="focus-listing"/>
+    <file name="u11080-222.png" crc="4166405062" ref="focus-listing"/>
+    <file name="u11081-242.png" crc="237518047" ref="focus-listing"/>
+    <file name="architecture-1840297_1920.jpg" crc="300065103" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="australia-2910680_1920.jpg" crc="4012768129" ref="australia">
+      <caption webpage="australia" alt=""/>
+    </file>
+    <file name="pasted image 394x70.jpg" crc="3826771853" seo="true" ref="v-aerial-bj:v-aerial-kl">
+      <caption webpage="v-aerial-kl" alt=""/>
+      <caption webpage="v-aerial-bj" alt=""/>
+    </file>
+    <file name="keana3.jpg" crc="365477059" ref="v-aerial-bj:v-aerial-kl:auction">
+      <caption webpage="v-aerial-bj" alt=""/>
+    </file>
+    <file name="man.jpg" crc="352288596" ref="v-aerial-bj:v-aerial-kl:auction">
+      <caption webpage="v-aerial-kl" alt=""/>
+      <caption webpage="v-aerial-kl" alt=""/>
+      <caption webpage="auction" alt=""/>
+      <caption webpage="auction" alt=""/>
+      <caption webpage="auction" alt=""/>
+      <caption webpage="v-aerial-bj" alt=""/>
+      <caption webpage="v-aerial-bj" alt=""/>
+      <caption webpage="v-aerial-bj" alt=""/>
+    </file>
+    <file name="auction-header.jpg" crc="498559062" ref="auction">
+      <caption webpage="auction" alt=""/>
+    </file>
+  </folder>
+  <file name="home.html" crc="433948970" seo="true" mt="1515511413990" redirect="true"/>
+  <file name="listing.html" crc="3813154417" seo="true" mt="1515222361873" redirect="true"/>
+  <file name="focus-listing.html" crc="179827331" seo="true" mt="1515511020157" redirect="true"/>
+  <file name="index.html" crc="468534418" seo="true" mt="1515497533355" redirect="true"/>
+  <file name="australia.html" crc="3968054670" seo="true" mt="1515222361873" redirect="true"/>
+  <file name="v-aerial-bj.html" crc="191881924" seo="true" mt="1515509200771" redirect="true"/>
+  <file name="v-aerial-kl.html" crc="4210608757" seo="true" mt="1515509200773" redirect="true"/>
+  <file name="auction.html" crc="3863682062" seo="true" mt="1515509200775" redirect="true"/>
+</manifest>
